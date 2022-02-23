@@ -13,12 +13,15 @@ For now, this project is at his very beginning and a lot of features are missing
 Keep in mind that it's still an early version, but you can always give it a try :)
 
 ## Installation
-Just get the **index.js** file and the **Enums** folder is the same directory, anywhere you want. No external dependency required.
+Just get the **index.js** file and the **Enums** folder is the same directory, anywhere you want. No external dependency required (other than the defaults __fs__ and __path__).
 
 ## Usage
 `node index.js FILE [OUTPUT_FOLDER]`
 
 Where **FILE** is the absolute path to the .lnk file and **OUTPUT_FOLDER** (optional) is the absolute path to an output directory, where the JSON result will be saved.
+
+
+In this repo, you will find an **sample.lnk** file that has already been read by the script. The **sample.json** file is the associated output.
 
 
 For more information about LNK file forensics, you should look at the [Windows MS-SHLLINK specifications](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-shllink/16cb4ca1-9339-4d0c-a68d-bf1d6cc0f943) and the [forensicwiki](https://forensicswiki.xyz/page/LNK).
