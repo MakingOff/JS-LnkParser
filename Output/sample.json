@@ -1,0 +1,98 @@
+{
+    "File Path": "C:\\Users\\thiba\\WebstormProjects\\lnkparser\\TestFiles\\sample.lnk",
+    "File Name": "sample.lnk",
+    "Header": {
+        "Link Flags": [
+            "HasTargetIDList",
+            "HasLinkInfo",
+            "HasName",
+            "HasRelativePath",
+            "HasWorkingDir",
+            "HasArguments",
+            "IsUnicode",
+            "EnableTargetMetadata"
+        ],
+        "Targeted File Attributes Flags": [
+            "FILE_ATTRIBUTE_ARCHIVE"
+        ],
+        "Creation Time": "24/01/2022, 20:18:15",
+        "Access Time": "23/02/2022, 00:38:28",
+        "Write Time": "24/01/2022, 20:18:52",
+        "Size": "33.2 MB",
+        "Icon Index": 0,
+        "Window State": "SW_SHOWNORMAL",
+        "Hotkey": "CTRL + 9 (NUM)"
+    },
+    "IDList": {
+        "Size": "823 Bytes",
+        "List": [
+            {
+                "Size": 20,
+                "Data": "1f50e04fd020ea3a6910a2d808002b30309d"
+            },
+            {
+                "Size": 25,
+                "Data": "2f433a5c00000000000000000000000000000000000000"
+            },
+            {
+                "Size": 140,
+                "Data": "31000000000052542395110050524f4752417e310000740009000400efbe874fdb495654c2b92e000000270000000000010000000000000000004a00000000004f7f0900500072006f006700720061006d002000460069006c0065007300000040007300680065006c006c00330032002e0064006c006c002c002d003200310037003800310000001800"
+            },
+            {
+                "Size": 84,
+                "Data": "3100000000003c54b45610004f63756c757300003e0009000400efbeb6521454565469bb2e000000e3c101000000090000000000000000000000000000003af60c004f00630075006c007500730000001600"
+            },
+            {
+                "Size": 90,
+                "Data": "3100000000003c54fb841000536f6674776172650000420009000400efbeb6521454565469bb2e0000005c9f0400000006000000000000000000000000000000f4f4fb0053006f0066007400770061007200650000001800"
+            },
+            {
+                "Size": 90,
+                "Data": "31000000000038545d9a1000536f6674776172650000420009000400efbeb6528c54565469bb2e000000e93e0200000009000000000000000000000000000000beddf50053006f0066007400770061007200650000001800"
+            },
+            {
+                "Size": 122,
+                "Data": "31000000000038545d9a100052454144592d7e310000620009000400efbe38542f9a56542cb32e0000007b790400000014000000000000000000000000000000443df700720065006100640079002d00610074002d006400610077006e002d006500630068006f002d006100720065006e00610000001800"
+            },
+            {
+                "Size": 74,
+                "Data": "3100000000003854489a100062696e00380009000400efbe3854489a5654cbbc2e000000dc350b0000001900000000000000000000000000000002492b00620069006e0000001200"
+            },
+            {
+                "Size": 80,
+                "Data": "3100000000003854489a100077696e3130003c0009000400efbe3854489a5654cbbc2e0000005c790b0000002900000000000000000000000000000091372a00770069006e003100300000001400"
+            },
+            {
+                "Size": 96,
+                "Data": "32000032130238545b9a20006563686f76722e6578650000460009000400efbe3854489a56547a5e2e000000ae790b0000001800000000000000000000000000000022d8d7006500630068006f00760072002e0065007800650000001a00"
+            }
+        ]
+    },
+    "Link Infos": {
+        "Size": 141,
+        "Header Size": 28,
+        "Flags": 1,
+        "VolumeIDOffset": 28,
+        "LocalBasePathOffset": 52,
+        "CommonNetworkRelativeLinkOffset": 0,
+        "CommonPathSuffixOffset": 140,
+        "Volume": {
+            "SectionSize": 24,
+            "Drive Type": "DRIVE_FIXED",
+            "Serial Number": 1145765373,
+            "LabelOffset": 16,
+            "Label": "Windows",
+            "Local Base Path": "C:\\Program Files\\Oculus\\Software\\Software\\ready-at-dawn-echo-arena\\bin\\win10\\echovr.exe"
+        },
+        "Common Path Suffix": ""
+    },
+    "String Data": {
+        "Description": "Sample Description",
+        "Relative Path": "..\\..\\..\\..\\..\\Program Files\\Oculus\\Software\\Software\\ready-at-dawn-echo-arena\\bin\\win10\\echovr.exe",
+        "Working Directory": "C:\\Program Files\\Oculus\\Software\\Software\\ready-at-dawn-echo-arena\\bin\\win10",
+        "Command Line Arguments": "-sampleArg"
+    },
+    "Extra Data": {
+        "CAUTION": "Last block may be incorrect"
+    }
+}
